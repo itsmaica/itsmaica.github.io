@@ -124,14 +124,20 @@ i:hover{
 }
 
 .live-git{
-	width: 40%;
+	width: 30%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 }
 
 #submit{
 	margin-top: 2.5rem;
+}
+
+.head{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #resume{
